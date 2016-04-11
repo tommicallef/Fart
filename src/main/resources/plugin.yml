@@ -1,0 +1,8 @@
+main: me.tezk.fart.Fart
+name: Fart
+author: Tezk
+version: 1.0
+commands:
+  fart:
+    usage: /<command> [player]
+    description: Fart!

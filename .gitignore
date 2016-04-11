@@ -1,0 +1,13 @@
+/bin/
+/META-INF/
+/out/
+/target/
+# Mac
+.DS_Store
+# Intellij
+/.idea/
+*.iml
+*.iws
+*.class
+*.jar
+**/src/test/
